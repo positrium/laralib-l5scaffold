@@ -1,0 +1,1 @@
+# laralib-l5scaffold
