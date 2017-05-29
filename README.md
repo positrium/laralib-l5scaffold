@@ -1,5 +1,7 @@
 # laralib-l5scaffold
 
+target : https://packagist.org/packages/laralib/l5scaffold
+
 ## setup
 
 - 2017-05-29
